@@ -24,10 +24,10 @@ and a Multinomial Naive Bayes classifier.
 
 | File | Description |
 |------|-------------|
-| NLP.ipynb | Main SMS Spam Classifier |
-| NLP_Practicals.ipynb | Weekly practicals - Weeks 1, 2 and 3 |
+| NLP_Weekly_Practicals.ipynb | Weekly practicals - Weeks 1 to 5 |
+| NLP_Practical.ipynb | Week 1 Tokenization Assignment |
 | Extra_Work_NLP.ipynb | Extra work - Stemming, Lemmatization, Parsing, Word Frequency Charts |
-| NLP_Project_Practical.ipynb | Full project pipeline |
+| NLP_Project_Practical.ipynb | Full project pipeline Main SMS Spam Classifier |
 
 ---
 

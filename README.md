@@ -19,7 +19,7 @@ and a Multinomial Naive Bayes classifier.
 - False Positives: 2 | False Negatives: 31
 
 ### Creative Consolidation Project: Word2Vec + Neural Language Model
-A custom project combining Week 6 (Word Embeddings) and Week 7 (Neural Language Models) by feeding Word2Vec-trained embeddings into an LSTM network's Embedding layer as pre-trained weights — demonstrating transfer learning, the same principle behind BERT and GPT.
+A custom project combining Week 6 (Word Embeddings) and Week 7 (Neural Language Models) by feeding Word2Vec-trained embeddings into an LSTM network's Embedding layer as pre-trained weights demonstrating transfer learning, the same principle behind BERT and GPT.
 
 ---
 
